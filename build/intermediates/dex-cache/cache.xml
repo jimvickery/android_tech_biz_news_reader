@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="108419f71b5a7b0785c272740e1b89b9cfcac691">
+        <dex dex="/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a922ca0ba08ad206781c4949eb5257dcc600a93f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2237154990af8779e0cd1a66ba5f029c3c622774">
+        <dex dex="/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_39a5486fe9c6f402d600b2dc692f140ea12e218d/classes.dex" />
+    </item>
+
+</items>

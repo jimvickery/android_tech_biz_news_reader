@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/build/intermediates/res/merged/debug/layout/listview_item.xml",
+        "source": "/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/src/main/res/layout/listview_item.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/build/intermediates/res/merged/debug/layout/activity_items.xml",
+        "source": "/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/src/main/res/layout/activity_items.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/build/intermediates/res/merged/debug/layout/activity_item.xml",
+        "source": "/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/src/main/res/layout/activity_item.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_refresh.png",
+        "source": "/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/src/main/res/drawable-xhdpi/ic_refresh.png"
+    },
+    {
+        "merged": "/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/jimvickery/Downloads/android-3/ex_solutions/techNewsReader/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
