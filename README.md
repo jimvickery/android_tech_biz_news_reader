@@ -1,6 +1,6 @@
 # Android_Tech_Biz_News_Reader
 
-A Tech and News reader for Android.
+##A Tech and News reader built with Android Studio.
 
 ![Alt text](newsreader.png?raw=true "Title")
 
